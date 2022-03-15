@@ -1,6 +1,5 @@
-===========================
-Question2Answer Poll 1.0b
-===========================
+
+Question2Answer Poll v2 - beta {upgraded for quesnit , you are free to use !}
 -----------
 Description
 -----------
@@ -48,7 +47,7 @@ This is **beta** code.  It is probably okay for production environments, but may
 -----------
 Screenshots
 -----------
-
+![This is an image](https://blogger.googleusercontent.com/img/a/AVvXsEjH78Haw1EqFSlSHJWlAAMTyd1LktLkVBC3lfXPjn530SKGjfJgw2lC-pLUngvi0lkKNojj4k7gnVzF5KmMcrzNw-BWBV6KRLKQ3Yz4t9vh0GBqTeG5IaCGf9GK3Pn4QGeVOcnVRRsvNthRcVcVsdm8e1DQWyAr4epAhqwz3GZk7U7oDnAulk2oz-yV)
 -------
 Release
 -------
