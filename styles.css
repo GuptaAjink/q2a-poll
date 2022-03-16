@@ -38,3 +38,14 @@
   border-radius: inherit;
   transition: all 0.2s ease;
 }
+.qa-poll-answer-text{width:80%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box; border: 2px solid #6665ee;
+  border-radius: 4px;}
+  .qa-poll-answer-add{background-color:#6665ee;
+  border: none;
+  color: white;
+  padding: 12px 20px;
+  text-decoration: none;
+  cursor: pointer;}
