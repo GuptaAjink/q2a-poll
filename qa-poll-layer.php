@@ -130,6 +130,7 @@
 		function head_custom() {
 			if(qa_opt('poll_enable')) {
 				if($this->template == 'ask') {
+					 $this->output('<link rel="stylesheet" type="text/css" href="'.QA_HTML_THEME_LAYER_URLTOROOT.'styles.css">');
 					$this->output_raw('<script>
 	var poll_answer_index = 2;
 	jQuery("document").ready(function(){jQuery("#is_poll").removeAttr("checked")});
